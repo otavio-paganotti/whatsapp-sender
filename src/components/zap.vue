@@ -2,7 +2,7 @@
   <q-page class="">
     <div class="q-pa-md">
       <div class="q-col-gutter-md row">
-        <div class="col-12 col-md-4 offset-4">
+        <div class="col-12 col-md-4 offset-md-4">
           <q-card>
             <q-card-section>
               <q-card-section>
